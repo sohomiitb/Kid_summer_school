@@ -22,3 +22,13 @@ Install dependencies with:
 
 ```sh
 pip install streamlit pandas numpy scikit-learn matplotlib
+
+▶️ How to Run
+Open a terminal and navigate to the House_Price_Prediction folder.
+Run the app with:
+The app will open in your browser.
+📁 Files
+app.py – Main Streamlit app
+House_Price.ipynb – (Optional) Jupyter notebook for experiments
+Happy coding!
+
