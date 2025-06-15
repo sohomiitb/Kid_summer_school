@@ -29,6 +29,8 @@ Install dependencies with:
 ```sh
 pip install streamlit pandas numpy plotly
 
+```
+
 
 ▶️ How to Run & Launch the App
 1. Navigate to the project folder:
