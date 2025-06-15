@@ -50,14 +50,24 @@ http://localhost:8501
 ```
 
 📝 Customization
+
 Categories & Members: Edit the categories and family_members lists in family_expense_dashboard.py to match your own family or expense types.
 Monthly Income: Adjust the total_monthly_income variable as needed.
+
+---
+
 📊 Dashboard Preview
+
+
 Summary Metrics: Income, expenses, savings, budget used, and month-over-month change.
 Charts: Monthly income vs expenses, category breakdown, expense distribution pie, and spending trends.
 Recent Expenses: Dynamic feed of the latest expenses.
 Raw Data: Expandable table of all generated daily expense data.
+
+---
+
 💡 Learning Goals
+
 Practice Python data manipulation with pandas and numpy.
 Build interactive web apps using Streamlit.
 Visualize data with Plotly.
